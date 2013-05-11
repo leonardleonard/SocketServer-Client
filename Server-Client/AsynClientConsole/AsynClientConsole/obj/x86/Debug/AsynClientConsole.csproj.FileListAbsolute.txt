@@ -1,0 +1,14 @@
+H:\Socket学习\Socket教学篇\Socket-Part2\AsynClientConsole\AsynClientConsole\bin\Debug\AsynClientConsole.exe
+H:\Socket学习\Socket教学篇\Socket-Part2\AsynClientConsole\AsynClientConsole\bin\Debug\AsynClientConsole.pdb
+H:\Socket学习\Socket教学篇\Socket-Part2\AsynClientConsole\AsynClientConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Socket学习\Socket教学篇\Socket-Part2\AsynClientConsole\AsynClientConsole\obj\x86\Debug\AsynClientConsole.exe
+H:\Socket学习\Socket教学篇\Socket-Part2\AsynClientConsole\AsynClientConsole\obj\x86\Debug\AsynClientConsole.pdb
+G:\Socket学习\Socket教学篇\Socket-Part2\AsynClientConsole\AsynClientConsole\obj\x86\Debug\AsynClientConsole.exe
+G:\Socket学习\Socket教学篇\Socket-Part2\AsynClientConsole\AsynClientConsole\obj\x86\Debug\AsynClientConsole.pdb
+G:\Socket学习\Socket教学篇\Socket-Part2\AsynClientConsole\AsynClientConsole\bin\Debug\AsynClientConsole.exe
+G:\Socket学习\Socket教学篇\Socket-Part2\AsynClientConsole\AsynClientConsole\bin\Debug\AsynClientConsole.pdb
+G:\Socket学习\Socket教学篇\Socket-Part2\AsynClientConsole\AsynClientConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cln\Desktop\Socket-Part2\Socket-Part2\AsynClientConsole\AsynClientConsole\obj\x86\Debug\AsynClientConsole.exe
+C:\Users\cln\Desktop\Socket-Part2\Socket-Part2\AsynClientConsole\AsynClientConsole\obj\x86\Debug\AsynClientConsole.pdb
+C:\Users\cln\Documents\GitHub\SocketServer-Client\Server-Client\AsynClientConsole\AsynClientConsole\obj\x86\Debug\AsynClientConsole.exe
+C:\Users\cln\Documents\GitHub\SocketServer-Client\Server-Client\AsynClientConsole\AsynClientConsole\obj\x86\Debug\AsynClientConsole.pdb
